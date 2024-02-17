@@ -1,0 +1,1 @@
+# focused-effort-static-objects
